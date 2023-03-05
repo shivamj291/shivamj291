@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 linkedin.com/in/shivam-jaiswal-43364a23b
 linkedin.com/in/shivam-jaiswal-43364a23b
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shivam-jaiswal-43364a23b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-jaiswal-43364a23b/)
