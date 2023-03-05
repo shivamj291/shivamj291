@@ -7,6 +7,8 @@
 
 <img align="right" alt="Coding" style="width: 200px; height: 170px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+[![](https://visitcount.itsvg.in/api?id=shivamj291&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 about me :
 
 - 👀 I’m interested in coding & web development
