@@ -5,7 +5,7 @@
 
 <p align="center">Hi! My name is Shivam Jaiswal. Thank You for taking the time to view my GitHub Profile 😄.I am proficient in Java ,JavaScript, HTML ,CSS and React. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community. Love to play cricket and participated in any quiz competitions. </p>
 
-@@ -29,4 +29,3 @@
+# about me :
 
 - 👀 I’m interested in coding & web development
 - 🌱 I’m currently learning full stack web development
