@@ -1,7 +1,14 @@
 
 
 + <img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966"/>
-- 👋 Hi, I’m Shivam Jaiswal
+
+
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=👋Hey!+It's+SHIVAM+JAISWAL!;Full+Stack-Web+Developer...👨🏻‍💻;" style="width: 100%;">
+<h3 align="center">A Passionate and Aspiring Full-Stack Web Developer </h3>
+
+<p align="center">Hi! My name is Shivam Jaiswal. Thank You for taking the time to view my GitHub Profile 😄.I am proficient in Java ,JavaScript, HTML ,CSS and React. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community. Love to play cricket and participated in any quiz competitions. </p>
+
 - 👀 I’m interested in coding & web development
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me :- contact no.-9399849603, gmail- shivamj291@gmail.com
