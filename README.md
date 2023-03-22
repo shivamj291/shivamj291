@@ -20,7 +20,7 @@
 - projects:- 1. https://comfy-speculoos-0dfe32.netlify.app/
              2. https://inquisitive-sfogliatella-5b3ac3.netlify.app/
              3. https://acko-team.netlify.app/
-- portfolio Link:- https://shivam-jaiswal-portfolio-be29d8.netlify.app
+- portfolio Link:- https://shivam-jaiswal-portfolio-c8c942.netlify.app
 
 <!-- 
 [![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=Resume&logoColor=white)](https://drive.google.com/file/d/1AAJ89zBFhLJrdspdFHbrpH5o98WW8QDo/view?usp=sharing)
