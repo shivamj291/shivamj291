@@ -33,7 +33,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-jaiswal-43364a23b)
-[![Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://shivam-jaiswal-portfolio-c8c942.netlify.app)
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://shivam-jaiswal-portfolio-c8c942.netlify.app/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivamj291&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
