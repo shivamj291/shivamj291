@@ -45,13 +45,14 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/shivamj291">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamj291&theme=radical" />
 </a> </p>
-
-## 🏆 GitHub Trophies
+<hr/>
 </p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=shivamj291&theme=vue" alt=""/> </p>
 </p>
 <hr/>
-<!-- ![](https://github-profile-trophy.vercel.app/?username=shivamj291&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=shivamj291&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivamj291&icon=0&color=0)](https://visitcount.itsvg.in)
