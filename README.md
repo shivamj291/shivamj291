@@ -47,12 +47,12 @@ You can click the Preview link to take a look at your changes.
 </a> </p>
 <hr/>
 </p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=shivamj291&theme=vue" alt=""/> </p>
-</p>
+
 <hr/>
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=shivamj291&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=shivamj291&theme=vue" alt=""/> </p>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivamj291&icon=0&color=0)](https://visitcount.itsvg.in)
