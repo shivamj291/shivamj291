@@ -36,8 +36,10 @@ You can click the Preview link to take a look at your changes.
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Portfolio&logoColor=white)](https://shivam-jaiswal-portfolio-c8c942.netlify.app/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivamj291&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivamj291&theme=dark&hide_border=false)<br/>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamj291&theme=dark&hide_border=false"/><br/>
+     ![](https://github-readme-stats.vercel.app/api?username=shivamj291&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamj291&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
