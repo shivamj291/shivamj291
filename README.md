@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me :- contact no.-9399849603, gmail- shivamj291@gmail.com
 - address:- ward no.12,arjun nagar,obaidullaganj,raisen,m.p.
-- projects:- 1. https://comfy-speculoos-0dfe32.netlify.app/
+- projects:- 1. https://lovoda-clone.netlify.app/
              2. https://inquisitive-sfogliatella-5b3ac3.netlify.app/
              3. https://acko-team.netlify.app/
 
