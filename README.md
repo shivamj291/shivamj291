@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=👋Hey!+It's+SHIVAM+JAISWAL!;Full+Stack-Web+Developer...👨🏻‍💻;" style="width: 100%;">
 <h3 align="center">A Passionate and Aspiring Full-Stack Web Developer </h3>
 
-<p align="center">Hi! My name is Shivam Jaiswal. Thank You for taking the time to view my GitHub Profile 😄.I am proficient in Java ,JavaScript, HTML ,CSS and React. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community. Love to play chess, listening and singing songs </p>
+<p align="center">Hi! My name is Shivam Jaiswal. Thank You for taking the time to view my GitHub Profile 😄.I am proficient in Java, JavaScript, HTML, CSS, and React. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them. Building interactive, real-life projects and contributing to the tech community. Love to play chess, listening and singing songs </p>
 
 <img align="right" alt="Coding" style="width: 200px; height: 170px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,11 +14,11 @@
 # 💫 about me :
 
 - 👀 I’m interested in coding & web development
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently learning full-stack web development
 - 📫 How to reach me :- contact no.-9399849603, gmail- shivamj291@gmail.com
 - address:- ward no.12,arjun nagar,obaidullaganj,raisen,m.p.
 - projects:- 1. https://lovoda-project.vercel.app/
-             2. https://inquisitive-sfogliatella-5b3ac3.netlify.app/
+             2. https://india-mart-clone.vercel.app/
              3. https://acko-team.netlify.app/
 
 <!-- 
